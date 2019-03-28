@@ -1,12 +1,12 @@
 {
 
-    "name": "Emby",
+    "name": "Jellyfin",
     "_comment": "This should be Jellyfin, but that breaks apps...",
     "description": "Jellyfin: the Free Software Media System.",
     "lang": "en-US",
-    "display": "minimal-ui",
-    "short_name": "Emby",
-    "start_url": "/web/index.html",
+    "display": "standalone",
+    "short_name": "Jellyfin",
+    "start_url": "/index.html",
     "theme_color": "#101010",
     "icons": [{
             "sizes": "72x72",
